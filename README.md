@@ -1,4 +1,8 @@
-# AgriNova – AI Crop Doctor
+# 🌱 AgriNova – AI Crop Doctor
+
+## 🚀 Live Demo
+
+https://aetkdr4pvkcndk6sraqfsg.streamlit.app
 
 ## Overview
 AgriNova is an AI-powered agricultural decision support system developed using Python, Machine Learning, and Streamlit. The system predicts suitable crops and provides agricultural insights based on soil parameters.
